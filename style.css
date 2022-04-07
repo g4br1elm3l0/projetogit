@@ -1,0 +1,145 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 80px;
+    font-family: IBM Plex Sans;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 42px;
+    letter-spacing: 0em;
+    justify-content: center;
+}
+
+img {
+    max-width: 160px;
+    max-height: 160px;
+    fill: black;
+    border: none;
+    margin: none;
+    overflow: hidden;
+
+}
+
+figcaption {
+    text-align: center;
+    margin-top: -20px;
+    margin-left: 25px;
+    justify-content: center;
+}
+
+.logo {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+
+.conteiner {
+
+    display: flex;
+    list-style: none;
+    margin-top: 40px;
+    justify-content: center;
+
+}
+
+#usuarioum {
+    margin: 40px;
+    /* border: 40px; */
+    width: 130px;
+    height: 160px;
+    left: 0px;
+    top: 80px;
+    border-radius: 0px;
+}
+
+#usuarioum:hover {
+    border: 2px solid white;
+}
+
+#usuariodois {
+    margin: 40px;
+    /* border: 40px; */
+    width: 130px;
+    height: 160px;
+    left: 0px;
+    top: 80px;
+    border-radius: 0px;
+}
+
+#usuariodois :hover {
+    border: 2px solid white;
+}
+
+#usuariotres {
+    margin: 40px;
+    /* border: 40px; */
+    width: 130px;
+    height: 160px;
+    left: 0px;
+    top: 80px;
+    border-radius: 0px;
+}
+
+#usuariotres :hover {
+    border: 2px solid white;
+}
+
+
+
+#add {
+    margin: 40px;
+    /* border: 40px; */
+    width: 130px;
+    height: 160px;
+    left: 0px;
+    top: 80px;
+    border-radius: 0px;
+
+}
+
+#add :hover {
+    border: 2px solid white;
+
+}
+
+section {
+    display: flex;
+    text-align: center;
+    margin-top: 80px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    justify-content: center;
+}
+
+#perfis {
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: black;
+    color: azure;
+    /* border: 1px solid white; */
+
+}
+
+#perfis :hover {
+
+    border: 2px solid white;
+
+}
+
+#botao {
+    background-color: black;
+    color: azure;
+    padding: 10px;
+    border: 1px solid white;
+}
+
+#botao :hover {
+    border: 2px solid white;
+
+
+}
